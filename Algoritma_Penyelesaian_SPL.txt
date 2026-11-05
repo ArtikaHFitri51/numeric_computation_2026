@@ -24,18 +24,3 @@ D. Langkah-Langkah Algoritma
 8. Lakukan substitusi mundur untuk mendapatkan nilai variabel z, y, dan x.
 9. Tampilkan hasil penyelesaian.
 10. Selesai.
-
-E. Pseudocode
-MULAI
-Masukkan matriks augmented A
-UNTUK setiap kolom:
-    Tentukan elemen pivot
-    Jika pivot = 0:
-        Tukar baris
-    Lakukan eliminasi elemen di bawah pivot
-Lakukan substitusi mundur:
-    Hitung z
-    Hitung y
-    Hitung x
-Tampilkan nilai x, y, dan z
-SELESAI
