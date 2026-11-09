@@ -1,0 +1,19 @@
+1. Tujuan algoritma
+Membuat langkah-langkah penyelesaian persamaan nonlinier:
+f(x) = x^3 - x - 2 = 0
+Menggunakan metode Bisection dengan interval awal 1 sampai 2 dan toleransi 0,0001.
+
+2. Langkah-langkah algoritma
+Berikut algoritma yang akan kita gunakan:
+1. Mulai.
+2. Tentukan fungsi f(x) = x^3 - x - 2.
+3. Tentukan batas bawah a = 1 dan batas atas b = 2.
+4. Tentukan toleransi sebesar 0,0001.
+5. Hitung nilai f(a) dan f(b).
+6. Periksa apakah f(a) x f(b) < 0.
+7. Hitung titik tengah interval menggunakan rumus: xr = {a+b} / {2}.
+8. Hitung nilai f(x_r).
+9. Tentukan interval baru berdasarkan tanda hasil fungsi.
+10. Ulangi proses sampai memenuhi batas toleransi.
+11. Tampilkan hasil akar persamaan.
+12. Selesai.
