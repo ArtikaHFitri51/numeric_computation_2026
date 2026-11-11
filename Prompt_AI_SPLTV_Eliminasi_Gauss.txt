@@ -1,0 +1,75 @@
+DAFTAR PROMPT AI
+TUGAS KOMPUTASI NUMERIK
+SPLTV METODE ELIMINASI GAUSS
+
+CATATAN:
+Kalimat prompt yang tercantum merupakan referensi berupa rangkuman penjelasan penggunaan AI. Untuk melihat prompt asli yang saya gunakan, silakan membuka tautan percakapan berikut.
+
+1. TAHAP PENYUSUNAN MODEL MATEMATIKA
+Referensi prompt:
+[Membantu menentukan model matematika dari studi kasus SPLTV, menentukan variabel X, Y, dan Z, menyusun persamaan, serta membuat matriks augmented.
+
+Model yang digunakan:
+2x + y + 2z = 170
+x + 2y + z = 120
+3x + y + z = 160]
+
+2. TAHAP PEMBUATAN ALGORITMA
+Referensi prompt:
+["Buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel dan simpan pada Repository
+'Komputasi Numerik' di Github."
+
+Permintaan lanjutan:
+Membantu menyusun algoritma penyelesaian SPLTV
+menggunakan metode Eliminasi Gauss.]
+
+3. TAHAP PEMBUATAN PROGRAM PYTHON
+Referensi prompt:
+[Membantu membuat program Python untuk menyelesaikan SPLTV menggunakan metode Eliminasi Gauss di Google Colab berdasarkan algoritma yang telah dibuat.
+
+Permintaan lanjutan:
+- Membantu memperbaiki kesalahan pada program.
+- Membantu memperbaiki proses eliminasi Gauss.
+- Membantu memperbaiki proses substitusi mundur.
+- Memastikan nilai X, Y, dan Z muncul semuanya.
+- Membuat tampilan hasil program lebih sederhana dan mudah dipahami.]
+
+4. TAHAP PENJELASAN KODE PROGRAM
+Referensi prompt:
+[Membantu memberikan penjelasan pada kode Python yang digunakan untuk menyelesaikan SPLTV metode Eliminasi Gauss agar dapat dimasukkan ke GitHub.
+
+Permintaan lanjutan:
+Menjelaskan fungsi bagian-bagian kode dan membantu menyusun penjelasan agar mudah dipahami.]
+
+5. TAHAP PENGUJIAN PROGRAM & HASIL PERCOBAAN 
+Referensi prompt:
+[Membantu melakukan pengujian program SPLTV metode Eliminasi Gauss dan menjelaskan hasil percobaan.
+
+Data pengujian:
+2 1 2 170
+1 2 1 120
+3 1 1 160
+
+Hasil yang diharapkan:
+x = 31.6667
+y = 23.3333
+z = 41.6667]
+
+6. TAHAP PENYUSUNAN POWERPOINT
+Referensi prompt:
+[Membantu menyusun materi penyelesaian SPLTV metode Eliminasi Gauss untuk dimasukkan ke PowerPoint.
+
+Permintaan lanjutan:
+- Menjelaskan proses penyelesaian matematis.
+- Menampilkan proses eliminasi Gauss.
+- Menampilkan proses substitusi mundur.
+- Menjelaskan hasil perhitungan.
+- Menyesuaikan isi presentasi dengan hasil program.]
+
+7. REVISI POWERPOINT
+Referensi prompt:
+[Memperbaiki bagian penyelesaian matematika pada PowerPoint agar proses perkalian setiap elemen baris ditampilkan secara terperinci dan proses pengurangan ditulis secara vertikal seperti pengerjaan matematika biasa agar mudah dipahami.]
+
+8. TAHAP NASKAH VIDEO PRESENTASI 
+Referensi prompt:
+[Membantu menyusun kata-kata untuk presentasi di depan kamera mengenai tugas Komputasi Numerik SPLTV menggunakan metode Eliminasi Gauss.]
