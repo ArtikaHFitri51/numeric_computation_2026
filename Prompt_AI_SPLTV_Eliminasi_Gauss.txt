@@ -10,49 +10,28 @@ A. PROMPT TEKNIS
 2. TAHAP PEMBUATAN ALGORITMA
 [Buatkan algoritma penyelesaian Sistem Persamaan Linear Tiga Variabel menggunakan metode Eliminasi Gauss. Susun langkah-langkah algoritma secara berurutan sebelum diterapkan ke dalam program Python.]
 
-3. TAHAP PEMBUATAN PROGRAM PYTHON
-Referensi prompt:
-[Membantu membuat program Python untuk menyelesaikan SPLTV menggunakan metode Eliminasi Gauss di Google Colab berdasarkan algoritma yang telah dibuat.
-
-Permintaan lanjutan:
-- Membantu memperbaiki kesalahan pada program.
-- Membantu memperbaiki proses eliminasi Gauss.
-- Membantu memperbaiki proses substitusi mundur.
-- Memastikan nilai X, Y, dan Z muncul semuanya.
-- Membuat tampilan hasil program lebih sederhana dan mudah dipahami.]
+3. TAHAP PEMBUATAN KODE PYTHON
+[Buatkan program Python untuk menyelesaikan SPLTV menggunakan metode Eliminasi Gauss di Google Colab berdasarkan algoritma yang telah dibuat. Program harus dapat menerima input koefisien dari pengguna, melakukan Eliminasi Gauss, menjalankan substitusi mundur dan menampilkan hasil nilai X, Y, dan Z.]
 
 4. TAHAP PENJELASAN KODE PROGRAM
-Referensi prompt:
-[Membantu memberikan penjelasan pada kode Python yang digunakan untuk menyelesaikan SPLTV metode Eliminasi Gauss agar dapat dimasukkan ke GitHub.
+[Jelaskan fungsi setiap bagian kode Python yang digunakan dalam program penyelesaian SPLTV metode Eliminasi Gauss. Gunakan bahasa sederhana agar mudah dipahami dan dapat dimasukkan ke dalam repository GitHub.]
 
-Permintaan lanjutan:
-Menjelaskan fungsi bagian-bagian kode dan membantu menyusun penjelasan agar mudah dipahami.]
+5. TAHAP PENGUJIAN PROGRAM
+[Lakukan pengujian terhadap program penyelesaian SPLTV menggunakan data yang telah ditentukan. Tampilkan input yang digunakan dan hasil keluaran program untuk memastikan program berjalan dengan benar.]
 
-5. TAHAP PENGUJIAN PROGRAM & HASIL PERCOBAAN 
-Referensi prompt:
-[Membantu melakukan pengujian program SPLTV metode Eliminasi Gauss dan menjelaskan hasil percobaan.
+6. ANALISIS HASIL PERCOBAAN 
+[Analisis hasil pengujian program dan bandingkan dengan hasil perhitungan matematis secara manual. Jelaskan apakah nilai X, Y, dan Z yang diperoleh sudah sesuai dengan penyelesaian SPLTV.]
 
-Data pengujian:
-2 1 2 170
-1 2 1 120
-3 1 1 160
+B. PROMPT DOKUMENTASI & PRESENTASI 
 
-Hasil yang diharapkan:
-x = 31.6667
-y = 23.3333
-z = 41.6667]
+1. TAHAP PENYUSUNAN MATERI PPT
+[Buatkan materi PowerPoint untuk presentasi tugas Komputasi Numerik mengenai penyelesaian SPLTV menggunakan metode Eliminasi Gauss. Susun materi mulai dari studi kasus, model matematika, matriks augmented, proses eliminasi Gauss, substitusi mundur, implementasi program Python, pengujian program, hingga kesimpulan.]
 
-6. TAHAP PENYUSUNAN POWERPOINT
-Referensi prompt:
-[Membantu menyusun materi penyelesaian SPLTV metode Eliminasi Gauss untuk dimasukkan ke PowerPoint.
+2. PENYESUAIAN MATERI PRESENTASI 
+[Perbaiki bagian penyelesaian matematika pada PPT. Jangan langsung menampilkan hasil perkalian tanpa menjelaskan prosesnya. Tuliskan cara perkalian setiap elemen baris secara terperinci dan tampilkan proses pengurangan secara vertikal seperti pengerjaan matematika biasa agar mudah dipahami orang lain.]
 
-Permintaan lanjutan:
-- Menjelaskan proses penyelesaian matematis.
-- Menampilkan proses eliminasi Gauss.
-- Menampilkan proses substitusi mundur.
-- Menjelaskan hasil perhitungan.
-- Menyesuaikan isi presentasi dengan hasil program.]
+C. KETERANGAN 
 
-7. REVISI POWERPOINT
-Referensi prompt:
-[Memperbaiki bagian penyelesaian matematika pada PowerPoint agar proses perkalian setiap elemen baris ditampilkan secara terperinci dan proses pengurangan ditulis secara vertikal seperti pengerjaan matematika biasa agar mudah dipahami.]
+Prompt pada bagian teknis digunakan untuk menyusun model matematika, membuat algoritma, mengembangkan program Python, memahami kode, serta melakukan pengujian dan analisis hasil percobaan.
+
+Sementara itu, prompt pada bagian dokumentasi dan presentasi digunakan untuk menyusun materi PowerPoint dan menyesuaikan penjelasan agar mudah dipahami.
