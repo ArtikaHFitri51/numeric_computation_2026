@@ -1,9 +1,10 @@
 # penjelasan_di_dalam_repository_numeric_computation
-TUGAS KOMPUTASI NUMERIK
+TUGAS KOMPUTASI NUMERIK 
 
 NAMA      : ARTIKA HIDAYAH FITRI
 NIM       : 202511420020
 KELAS     : A
+Prodi     : Teknik Informatika
 
 ISI FILE DI REPOSITORY :
 1. link_akun.txt
