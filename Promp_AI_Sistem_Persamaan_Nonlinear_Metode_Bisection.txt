@@ -1,1 +1,34 @@
 DAFTAR PROMPT AI
+TUGAS KOMPUTASI NUMERIK
+PENYELESAIAN PERSAMAAN NONLINEAR MENGGUNAKAN METODE BISECTION
+
+A. PROMPT TEKNIS
+
+1. PENYUSUNAN MODEL MATEMATIKA 
+[Bantu saya menyusun model matematika untuk menyelesaikan persamaan nonlinear menggunakan metode Bisection. Gunakan persamaan f(x) = x^3 - x - 2 = 0 dengan interval awal [1, 2]. Jelaskan bentuk persamaan, nilai fungsi pada batas interval, alasan pemilihan interval, serta nilai toleransi 0,0001 yang digunakan.]
+
+2. PEMBUATAN ALGORITMA 
+[Buatkan algoritma penyelesaian persamaan nonlinear menggunakan metode Bisection berdasarkan model matematika tersebut. Susun langkah-langkahnya secara berurutan, mulai dari memasukkan persamaan, interval awal, dan toleransi, memeriksa syarat interval, menghitung titik tengah, memperbarui interval, hingga menentukan kondisi berhenti.]
+
+3. PEMBUATAN KODE PYTHON 
+[Bantu saya membuat program Python di Google Colab untuk menyelesaikan persamaan nonlinear menggunakan metode Bisection. Program harus memungkinkan pengguna memasukkan persamaan, interval awal, dan toleransi secara manual. Tambahkan validasi input, proses iterasi, tabel hasil iterasi, hasil akhir, serta grafik fungsi.]
+
+4. PENJELASAN KODE
+[Jelaskan setiap bagian kode Python pada Google Colab secara bertahap dan dengan bahasa sederhana. Uraikan fungsi library yang digunakan, input persamaan dan parameter, validasi, proses iterasi Bisection, penampilan tabel, hasil akhir, serta pembuatan grafik.]
+
+5. PENGUJIAN PROGRAM 
+[Bantu saya menguji program Bisection menggunakan persamaan f(x) = x^3 - x - 2 = 0, interval awal [1, 2], dan toleransi 0,0001. Periksa apakah program berjalan sesuai langkah metode Bisection serta apakah tabel iterasi, hasil akhir, dan grafik berhasil ditampilkan.]
+
+6. ANALISIS HASIL PERCOBAAN 
+[Bantu saya menganalisis hasil pengujian program metode Bisection. Jelaskan proses dan jumlah iterasi, hasil perkiraan akar persamaan, pemenuhan batas toleransi, serta makna grafik yang dihasilkan. Gunakan bahasa yang mudah dipahami untuk dokumentasi tugas.]
+
+B. PROMPT DOKUMENTASI DAN PRESENTASI
+
+1. PENYUSUNAN MATERI PPT 
+[Buatkan materi PowerPoint yang singkat, padat, dan jelas untuk menjelaskan model matematika penyelesaian persamaan nonlinear menggunakan metode Bisection. Materi mencakup persamaan yang digunakan, interval awal, nilai fungsi pada batas interval, rumus titik tengah, aturan pembaruan interval, toleransi, dan hasil perkiraan akar.]
+
+KETERANGAN
+
+Prompt pada bagian teknis digunakan sebagai bantuan dalam memahami model matematika, menyusun algoritma, mengembangkan dan menjelaskan kode Python, serta melakukan pengujian dan analisis hasil percobaan.
+
+Sementara itu, prompt pada bagian dokumentasi dan presentasi digunakan sebagai bantuan dalam menyusun materi PPT.
