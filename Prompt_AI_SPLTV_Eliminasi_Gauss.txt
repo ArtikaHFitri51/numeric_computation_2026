@@ -69,7 +69,3 @@ Permintaan lanjutan:
 7. REVISI POWERPOINT
 Referensi prompt:
 [Memperbaiki bagian penyelesaian matematika pada PowerPoint agar proses perkalian setiap elemen baris ditampilkan secara terperinci dan proses pengurangan ditulis secara vertikal seperti pengerjaan matematika biasa agar mudah dipahami.]
-
-8. TAHAP NASKAH VIDEO PRESENTASI 
-Referensi prompt:
-[Membantu menyusun kata-kata untuk presentasi di depan kamera mengenai tugas Komputasi Numerik SPLTV menggunakan metode Eliminasi Gauss.]
