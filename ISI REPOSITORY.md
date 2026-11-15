@@ -1,4 +1,4 @@
-# penjelasan_di_dalam_repository_numeric_computation_2026
+# penjelasan_di_dalam_repository_numeric_computation
 TUGAS KOMPUTASI NUMERIK
 
 NAMA      : ARTIKA HIDAYAH FITRI
